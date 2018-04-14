@@ -14,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -26,8 +26,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../group-cookbook-app/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="2439" column="459" selection-start-line="2439" selection-start-column="459" selection-end-line="2439" selection-end-column="459" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../group-cookbook-app/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/App.js">
+        <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/root/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
@@ -45,19 +63,20 @@
       <list>
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/root/App.js" />
+        <option value="$PROJECT_DIR$/../group-cookbook-app/package.json" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
+    <package-json value="$PROJECT_DIR$/../group-cookbook-app/package.json" />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/../group-cookbook-app/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -73,16 +92,16 @@
           <expand>
             <path>
               <item name="cookbook-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cookbook-app" type="462c0819:PsiDirectoryNode" />
+              <item name="group-cookbook-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cookbook-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cookbook-app" type="462c0819:PsiDirectoryNode" />
+              <item name="group-cookbook-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cookbook-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cookbook-app" type="462c0819:PsiDirectoryNode" />
+              <item name="group-cookbook-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="root" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -138,17 +157,18 @@
       <option name="presentableId" value="Default" />
       <updated>1523407734092</updated>
       <workItem from="1523407737434" duration="1040000" />
-      <workItem from="1523745814553" duration="51000" />
+      <workItem from="1523745814553" duration="440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1091000" />
+    <option name="totallyTimeSpent" value="1480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -156,7 +176,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296593" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3296593" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997996" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -175,7 +195,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -185,7 +205,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/App.js">
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/root/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
@@ -195,7 +215,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -205,13 +225,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/App.js">
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/src/root/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="2439" column="459" selection-start-line="2439" selection-start-column="459" selection-end-line="2439" selection-end-column="459" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../group-cookbook-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
