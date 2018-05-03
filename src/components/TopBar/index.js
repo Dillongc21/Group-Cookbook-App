@@ -1,18 +1,27 @@
 import React, { PureComponent } from 'react'
-import { Link } from 'react-router-dom'
+import PropTypes from 'prop-types'
+import { withRouter } from 'react-router-dom'
 
 import routes from '../../constants/routes'
+import * as Styled from './styled'
 
-export default class TopBar extends PureComponent {
+class TopBar extends PureComponent {
+
+  static propTypes = {
+    router: PropTypes.object
+  };
+
+  onTitleClick = () => {
+    this.props.history.push(routes.home)
+  };
+
   render() {
     return(
-      <div className="top-bar">
-        <h1>Group Cookbook</h1>
-        <ul>
-          <li><Link to={routes.home}>Home</Link></li>
-          <li><Link to={routes.signIn}>Sign In</Link></li>
-        </ul>
-      </div>
+      <Styled.TopBar>
+        <Styled.Title onClick={this.onTitleClick}>COOKBOOK</Styled.Title>
+      </Styled.TopBar>
     );
   }
 }
+
+export default withRouter(TopBar);
