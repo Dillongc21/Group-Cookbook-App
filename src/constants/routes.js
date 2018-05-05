@@ -1,5 +1,5 @@
 module.exports = {
-  home: '/',
+  landingPage: '/',
   register: '/register',
   signIn: '/sign-in'
 };

@@ -18,7 +18,7 @@ class TopBar extends PureComponent {
   render() {
     return(
       <Styled.TopBar>
-        <Styled.Title onClick={this.onTitleClick}>COOKBOOK</Styled.Title>
+        <Styled.Title onClick={this.onTitleClick}>GroupCook</Styled.Title>
       </Styled.TopBar>
     );
   }
