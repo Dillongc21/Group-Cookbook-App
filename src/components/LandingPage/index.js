@@ -6,7 +6,7 @@ export default class Home extends PureComponent {
 
     return(
       <Styled.Content>
-        <Styled.Image src={require('../../images/steak.jpg')} alt={'Delicious Food Pic'}/>
+        <Styled.Image/>
         <Styled.SignUp>Hi</Styled.SignUp>
       </Styled.Content>
     );
