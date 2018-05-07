@@ -17,7 +17,7 @@ export default class Home extends PureComponent {
   render() {
     return (
       <Styled.AboutWrapper>
-        <Styled.AboutHeader>What is GroupCook?</Styled.AboutHeader>
+        <Styled.AboutHeader>How does GroupCook work?</Styled.AboutHeader>
         <Styled.AboutItems>
 
           <Styled.AboutItem>
@@ -27,7 +27,7 @@ export default class Home extends PureComponent {
 
           <Styled.AboutItem>
             <div><CookBookIcon style={iconStyles}/></div>
-            <Styled.ItemHeader>Create a cookbook or join someone else's</Styled.ItemHeader>
+            <Styled.ItemHeader>Create a cookbook and/or join someone else's</Styled.ItemHeader>
           </Styled.AboutItem>
 
           <Styled.AboutItem>
