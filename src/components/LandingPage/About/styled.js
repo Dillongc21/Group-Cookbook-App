@@ -29,12 +29,14 @@ export const AboutItems = glamorous.div({
 
 export const AboutItem = glamorous.div({
   flex: 1,
+  minWidth: '200px',
   maxWidth: '300px',
   display: 'flex',
+  alignSelf: 'flex-start',
   flexWrap: 'wrap',
-  alignItems: 'center',
   justifyContent: 'center',
-  margin: '0 50px 50px 50px'
+  padding: '40px',
+  margin: 'auto'
 });
 
 export const ItemHeader = glamorous.div({

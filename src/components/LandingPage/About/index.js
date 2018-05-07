@@ -27,7 +27,7 @@ export default class Home extends PureComponent {
 
           <Styled.AboutItem>
             <div><CookBookIcon style={iconStyles}/></div>
-            <Styled.ItemHeader>Create a cookbook and/or join someone else's</Styled.ItemHeader>
+            <Styled.ItemHeader>Start a cookbook and/or join an existing one</Styled.ItemHeader>
           </Styled.AboutItem>
 
           <Styled.AboutItem>
