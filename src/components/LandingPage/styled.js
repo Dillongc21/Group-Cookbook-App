@@ -5,7 +5,7 @@ import steakImg from '../../images/steak.jpg'
 export const MainContent = glamorous.div({
   background: v.colorBlack30,
   height: '1150px',
-  '@media(min-width: 1100px)': {
+  '@media(min-width: 1200px)': {
     height: '850px'
   }
 });
@@ -18,7 +18,7 @@ export const Image = glamorous.div({
   backgroundSize: 'cover',
   width: '100vw',
   minHeight: '300px',
-  '@media(min-width: 1100px)': {
+  '@media(min-width: 1200px)': {
     width: '70%',
     minHeight: '850px'
   }
@@ -34,7 +34,7 @@ export const SignUp = glamorous.div({
   padding: '2em',
   width: '100vw',
   minHeight: '800px',
-  '@media(min-width: 1100px)': {
+  '@media(min-width: 1200px)': {
     width: '30%',
     minHeight: '850px'
   }

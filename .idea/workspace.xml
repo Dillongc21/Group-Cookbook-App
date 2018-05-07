@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb3c9e7-8d1b-45d6-be3e-522470162728" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/LandingPage/About/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage/About/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LandingPage/About/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage/About/styled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LandingPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LandingPage/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage/styled.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/LandingPage/About/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+            <state relative-caret-position="469">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -44,8 +45,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/LandingPage/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="451">
+              <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -53,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styled.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styled.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/LandingPage/styled.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <state relative-caret-position="161">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -105,11 +106,11 @@
         <option value="$PROJECT_DIR$/src/components/LandingPage/FieldSpace/index.js" />
         <option value="$PROJECT_DIR$/src/components/LandingPage/TextFieldSpace/styled.js" />
         <option value="$PROJECT_DIR$/src/components/LandingPage/TextFieldSpace/index.js" />
-        <option value="$PROJECT_DIR$/src/components/LandingPage/index.js" />
         <option value="$PROJECT_DIR$/src/components/TopBar/styled.js" />
-        <option value="$PROJECT_DIR$/src/components/LandingPage/styled.js" />
         <option value="$PROJECT_DIR$/src/components/LandingPage/About/styled.js" />
         <option value="$PROJECT_DIR$/src/components/LandingPage/About/index.js" />
+        <option value="$PROJECT_DIR$/src/components/LandingPage/index.js" />
+        <option value="$PROJECT_DIR$/src/components/LandingPage/styled.js" />
       </list>
     </option>
   </component>
@@ -256,13 +257,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66153000" />
+    <option name="totallyTimeSpent" value="67100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25316456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25316456" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="17" side_tool="true" />
@@ -271,7 +272,7 @@
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info id="npm" order="4" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32923076" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997996" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -656,12 +657,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LandingPage/styled.js">
+    <entry file="file://$PROJECT_DIR$/src/components/LandingPage/About/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        <state relative-caret-position="469">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,20 +679,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LandingPage/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="451">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LandingPage/About/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/LandingPage/styled.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        <state relative-caret-position="161">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>

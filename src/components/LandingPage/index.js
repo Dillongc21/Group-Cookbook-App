@@ -42,7 +42,7 @@ export default class Home extends PureComponent {
             <RaisedButton
               backgroundColor={v.facebookBlue}
               fullWidth={true}
-              label={'Connect to Facebook'}
+              label={'Create account with Facebook'}
               labelColor={v.colorWhite}
               style={styles.marginTop20}
               icon={<FacebookIcon size={25} color={v.colorWhite}/>}
