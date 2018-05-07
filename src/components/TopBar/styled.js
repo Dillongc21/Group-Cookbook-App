@@ -17,7 +17,7 @@ export const Title = glamorous.span({
   padding: '50px 10px 30px',
   cursor: 'pointer',
   display: 'inline-block',
-  fontSize: '22px',
+  fontSize: v.fontSizeLarge,
   letterSpacing: '5.08px',
   fontWeight: v.fontWeightRegular
 });

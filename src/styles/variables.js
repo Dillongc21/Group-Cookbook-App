@@ -13,8 +13,10 @@ export const colorFont = colorBlack80;
 export const colorPrimary = '#861F1F';
 export const colorPrimaryDark = darken(0.1, colorPrimary);
 export const colorPrimaryLight = lighten(0.1, colorPrimary);
+export const colorPrimaryLightest = lighten(0.65, colorPrimary);
 export const colorRed = 'red';
 export const colorWhite = '#fff';
+export const facebookBlue = '#3C5A99';
 
 // Font Weights
 export const fontWeightBlack = '700';
@@ -30,7 +32,7 @@ export const fontSizeBase = '14px';
 export const fontSizeMedium = '18px';
 export const fontSizeLarge = '22px';
 export const fontSizeXlarge = '28px';
-export const fontSizeJumbo = '32px';
+export const fontSizeJumbo = '35px';
 
 export default {
   // Break Points
@@ -46,8 +48,10 @@ export default {
   colorPrimary,
   colorPrimaryDark,
   colorPrimaryLight,
+  colorPrimaryLightest,
   colorRed,
   colorWhite,
+  facebookBlue,
 
   // Font Weights
   fontWeightBlack,
