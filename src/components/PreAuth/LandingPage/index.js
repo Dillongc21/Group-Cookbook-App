@@ -1,9 +1,9 @@
 import React, { PureComponent } from 'react'
 import * as Styled from './styled'
-import v from '../../styles/variables'
+import v from '../../../styles/variables'
 import FacebookIcon from 'react-icons/lib/fa/facebook-official'
-import TextFieldSpace from './TextFieldSpace'
-import About from './About'
+import TextFieldSpace from '../TextFieldSpace/index'
+import About from '../About/index'
 
 import { RaisedButton, Divider } from 'material-ui'
 

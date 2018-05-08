@@ -1,6 +1,6 @@
 import glamorous from 'glamorous'
-import v from '../../styles/variables'
-import steakImg from '../../images/steak.jpg'
+import v from '../../../styles/variables'
+import steakImg from '../../../images/steak.jpg'
 
 export const MainContent = glamorous.div({
   background: v.colorBlack30,

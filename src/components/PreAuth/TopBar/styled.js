@@ -1,6 +1,5 @@
 import glamorous from 'glamorous';
-
-import v from '../../styles/variables';
+import v from '../../../styles/variables';
 
 export const TopBar = glamorous.div({
   alignItems: 'center',

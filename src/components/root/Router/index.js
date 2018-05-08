@@ -1,9 +1,9 @@
 import React, { PureComponent } from 'react'
 import { BrowserRouter, Route } from 'react-router-dom'
 
-import TopBar from '../../TopBar'
-import SignIn from '../../SignIn'
-import LandingPage from '../../LandingPage'
+import TopBar from '../../PreAuth/TopBar'
+import SignIn from '../../PreAuth/SignIn'
+import LandingPage from '../../PreAuth/LandingPage'
 import routes from '../../../constants/routes'
 
 
