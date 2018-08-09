@@ -5,16 +5,8 @@ import FacebookIcon from 'react-icons/lib/fa/facebook-official'
 import TextFieldSpace from '../TextFieldSpace/index'
 import About from '../About/index'
 
-import { RaisedButton, Divider } from 'material-ui'
-
-const styles = {
-  marginTop40: {
-    marginTop: '40px'
-  },
-  marginTop20: {
-    marginTop: '20px'
-  }
-}
+import { Divider } from 'material-ui'
+import RaisedButton from '../../ui-components/RaisedButton'
 
 export default class Home extends PureComponent {
   render() {
@@ -31,22 +23,20 @@ export default class Home extends PureComponent {
             <TextFieldSpace/>
 
             {/* Buttons */}
-            <RaisedButton
-              backgroundColor={v.colorPrimary}
-              fullWidth={true}
-              label={'Create Account'}
-              labelColor={v.colorWhite}
-              style={styles.marginTop40}
-            />
-            <Divider style={styles.marginTop20}/>
-            <RaisedButton
-              backgroundColor={v.facebookBlue}
-              fullWidth={true}
-              label={'Create account with Facebook'}
-              labelColor={v.colorWhite}
-              style={styles.marginTop20}
-              icon={<FacebookIcon size={25} color={v.colorWhite}/>}
-            />
+            <Styled.CtaButton>
+              <RaisedButton
+                to={'/'}
+                label={'Create Account'} />
+            </Styled.CtaButton>
+            <Divider />
+            <Styled.FacebookCtaButton>
+              <RaisedButton
+                to={'/'}
+                backgroundColor={v.facebookBlue}
+                label={'Create account with Facebook'}
+                icon={<FacebookIcon size={25} color={v.colorWhite}/>} />
+            </Styled.FacebookCtaButton>
+
           </Styled.SignUp>
         </Styled.MainContent>
         <About/>

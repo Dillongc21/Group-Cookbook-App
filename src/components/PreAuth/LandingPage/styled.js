@@ -46,3 +46,12 @@ export const SignUpHeader = glamorous.h2({
   fontWeight: v.fontWeightBold,
   color: v.colorBlack90
 });
+
+export const CtaButton = glamorous.div ({
+  marginTop: '40px',
+  marginBottom: '20px'
+});
+
+export const FacebookCtaButton = glamorous.div ({
+  marginTop: '20px'
+});
